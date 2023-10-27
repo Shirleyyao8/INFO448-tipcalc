@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">tipcalc</string>
+    <string name="tip">Tip</string>
+    <string name="amount">Amount</string>
+    <string name="title">What is the amount that you want to calculate tip for?</string>
+    <string name="dollar_sign">$</string>
+</resources>
